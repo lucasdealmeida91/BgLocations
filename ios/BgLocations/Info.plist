@@ -33,7 +33,11 @@
 		<true/>
 	</dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string></string>
+	<string>Permita utilizar a localização para atualização em tempo real</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Permita utilizar a localização para atualização em tempo real</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Permita utilizar a localização para atualização em tempo real</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIRequiredDeviceCapabilities</key>
